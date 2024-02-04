@@ -1,7 +1,7 @@
 # Social Media Activity Tracker
 
 ## Description
-The Social Media Activity Tracker is a console-based application designed to track and manage user activities on a social media platform. It allows users to add new activities, remove existing activities, search for users, display users and their recent activity, and view statistics about user activity.
+The Social Media Activity Tracker is a console-based application that utilizes complex data structures designed to track and manage user activities on a social media platform. It allows users to add new activities, remove existing activities, search for users, display users and their recent activity, and view statistics about user activity.
 
 ## Features
 1. **Add an Activity:** Enables users to add new activities for existing users or create new users and add activities for them.
